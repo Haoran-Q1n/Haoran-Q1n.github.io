@@ -1,17 +1,25 @@
-cv:
-  name: Haoran Qin
-  label: Undergraduate Student
-  location: Vanderbilt University
-  image: ""
-  summary: I am an undergraduate student at Vanderbilt University interested in machine learning and its mathematical foundations.
+- title: Education
+  type: time_table
+  contents:
+    - title: Vanderbilt University
+      institution: Nashville, TN
+      year: Expected May 2029
+      description:
+        - B.S. in Computer Science and Mathematics
+        - "Cumulative GPA: 3.8/4.0"
+        - "Honors: Dean's List (Fall 2025)"
+        - "Relevant Coursework: Program Design & Data Structures, Discrete Structures, Multivariable Calculus (Analysis-based), Linear Algebra (Proof-based), Intermediate Software Design, Probability"
+        - "Coursework in Progress: Machine Learning"
 
-  social_networks:
-    - network: GitHub
-      username: Haoran-Q1n
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Machine Learning
+      items:
+        - Mathematical foundations of machine learning
 
-  sections:
-    Education:
-      - institution: Vanderbilt University
-        location: Nashville, Tennessee
-        area: Machine Learning and Mathematical Foundations
-        studyType: Undergraduate
+- title: Skills
+  type: list
+  contents:
+    - "Programming Languages & Tools: Python, Java, C++, LaTeX, Git"
+    - "Languages: Mandarin Chinese (Native), English (Proficient)"
