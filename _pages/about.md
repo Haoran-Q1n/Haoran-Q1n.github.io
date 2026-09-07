@@ -4,6 +4,11 @@ title: About
 permalink: /
 subtitle: Vanderbilt University
 
+profile:
+  align: right
+  image: profile.png
+  image_circular: false
+
 selected_papers: false
 social: true
 
