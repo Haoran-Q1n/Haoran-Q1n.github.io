@@ -29,35 +29,22 @@
         "Probability",
         "Machine Learning (In Progress)"
       ],
-      "highlights": [
-        "Dean's List (Fall 2025, Spring 2026)"
-      ]
+      "highlights": ["Dean's List (Fall 2025, Spring 2026)"]
     }
   ],
 
   "skills": [
     {
       "name": "Programming Languages & Tools",
-      "keywords": [
-        "Python",
-        "Java",
-        "C++",
-        "LaTeX",
-        "Git"
-      ]
+      "keywords": ["Python", "Java", "C++", "LaTeX", "Git"]
     },
     {
       "name": "Languages",
-      "keywords": [
-        "Mandarin Chinese (Native)",
-        "English (Proficient)"
-      ]
+      "keywords": ["Mandarin Chinese (Native)", "English (Proficient)"]
     },
     {
       "name": "Research Interests",
-      "keywords": [
-        "Machine learning and its mathematical foundations"
-      ]
+      "keywords": ["Machine learning and its mathematical foundations"]
     }
   ]
 }
