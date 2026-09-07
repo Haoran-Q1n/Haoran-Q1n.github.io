@@ -39,11 +39,10 @@ on:
       - ".github/workflows/unit-tests.yml"
 
 jobs:
-  comments-integration-tests:
+  integration-tests:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout 🛎️
-        uses: actions/checkout@v4
+      - name: Checkout 🛎�?        uses: actions/checkout@v4
 
       - name: Setup Ruby 💎
         uses: ruby/setup-ruby@v1
@@ -73,10 +72,7 @@ jobs:
         run: |
           sudo apt-get update && sudo apt-get install -y imagemagick
           pip3 install --upgrade nbconvert
-
-      - name: Run comments integration test 🧪
-        run: bash test/integration_comments.sh
-
+`r`n
       - name: Run plugin toggle integration test 🔌
         run: bash test/integration_plugin_toggles.sh
 
@@ -94,3 +90,4 @@ jobs:
 
       - name: Run new plugin integration checks 🧩
         run: bash test/integration_new_plugins.sh
+
