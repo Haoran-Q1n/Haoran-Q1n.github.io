@@ -1,8 +1,8 @@
 {
   "basics": {
     "name": "Haoran Qin",
-    "label": "Undergraduate Student",
-    "summary": "I am an undergraduate student at Vanderbilt University interested in machine learning and its mathematical foundations.",
+    "email": "haoran.qin.1@vanderbilt.edu",
+    "url": "https://haoranqin.com",
     "profiles": [
       {
         "network": "GitHub",
@@ -11,20 +11,53 @@
       }
     ]
   },
+
   "education": [
     {
       "institution": "Vanderbilt University",
-      "area": "Machine Learning and Mathematical Foundations",
-      "studyType": "Undergraduate"
+      "area": "Computer Science and Mathematics",
+      "studyType": "B.S.",
+      "location": "Nashville, TN",
+      "endDate": "2029-05",
+      "score": "3.8/4.0",
+      "courses": [
+        "Program Design & Data Structures",
+        "Discrete Structures",
+        "Multivariable Calculus (Analysis-based)",
+        "Linear Algebra (Proof-based)",
+        "Intermediate Software Design",
+        "Probability",
+        "Machine Learning (In Progress)"
+      ],
+      "highlights": [
+        "Dean's List (Fall 2025, Spring 2026)"
+      ]
     }
   ],
-  "work": [],
-  "projects": [],
-  "volunteer": [],
-  "awards": [],
-  "publications": [],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": []
+
+  "skills": [
+    {
+      "name": "Programming Languages & Tools",
+      "keywords": [
+        "Python",
+        "Java",
+        "C++",
+        "LaTeX",
+        "Git"
+      ]
+    },
+    {
+      "name": "Languages",
+      "keywords": [
+        "Mandarin Chinese (Native)",
+        "English (Proficient)"
+      ]
+    },
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Machine learning and its mathematical foundations"
+      ]
+    }
+  ]
 }
